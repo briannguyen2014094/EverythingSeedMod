@@ -1,0 +1,13 @@
+{
+  "itemGroup.everythingfarm": "Example Mod Tab",
+  "block.everythingfarm.example_block": "Example Block",
+  "item.everythingfarm.example_item": "Example Item",
+
+  "everythingfarm.configuration.title": "Everything Farm Configs",
+  "everythingfarm.configuration.section.everythingfarm.common.toml": "Everything Farm Configs",
+  "everythingfarm.configuration.section.everythingfarm.common.toml.title": "Everything Farm Configs",
+  "everythingfarm.configuration.items": "Item List",
+  "everythingfarm.configuration.logDirtBlock": "Log Dirt Block",
+  "everythingfarm.configuration.magicNumberIntroduction": "Magic Number Text",
+  "everythingfarm.configuration.magicNumber": "Magic Number"
+}
